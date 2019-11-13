@@ -107,5 +107,5 @@ venv.bak/
 .vscode/
 
 #config
-anton/config.json
+anton/default.json
 
